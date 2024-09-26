@@ -11,7 +11,7 @@
 
 
 # Link
-* [TEDx Talks - Unlocking the power of memorization_1(https:/youtu.be/n6LSwBhL4wk?s i=gQ8hUUMeIGANMOMf)
+* [TEDx Talks - Unlocking the power of memorization](https:/youtu.be/n6LSwBhL4wk?s i=gQ8hUUMeIGANMOMf)
 * [TED Talks - How to hack your brain for better focus](https:/youtu.be/PBaFURjVrm03si=40c00tkLG5B5qj15).
   
 # Experiments
