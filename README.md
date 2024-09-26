@@ -1,10 +1,10 @@
 # Number row characters
 * ! - exclamation point, bang
-* @ - commercial at-sign
-* \* - number, hash or pound sign
+* * @ - commercial at-sign
+* \# - number, hash 
 * $ - dollar sign
-*% - percent
-- caret, hat
+* % - percent
+* ^ - caret, hat
 * & - and
 * * - star
 * ( - left parenthesis
