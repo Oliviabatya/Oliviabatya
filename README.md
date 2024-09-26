@@ -1,17 +1,17 @@
 # Number row characters
 * ! - exclamation point, bang
-* * @ - commercial at-sign
+* @ - commercial at-sign
 * \# - number, hash 
 * $ - dollar sign
 * % - percent
 * ^ - caret, hat
 * & - and
-* * - star
+* \* - star
 * ( - left parenthesis
 
 
 # Link
-* [TEDx Talks - Unlocking the power of memorization](https:/youtu.be/n6LSwBhL4wk?s i=gQ8hUUMeIGANMOMf)
+* [TEDx Talks - Unlocking the power of memorization](https:/youtu.be/n6LSwBhL4wk?si=gQ8hUUMeIGANMOMf)
 * [TED Talks - How to hack your brain for better focus](https:/youtu.be/PBaFURjVrm03si=40c00tkLG5B5qj15).
   
 # Experiments
