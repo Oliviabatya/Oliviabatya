@@ -1,6 +1,5 @@
--- Question #6
+--Question 5
 
-SELECT *
+SELECT title, due_date
 FROM assignments
-WHERE status = 'Completed'
-ORDER BY due_date
+WHERE due_date like '2024-10%'
